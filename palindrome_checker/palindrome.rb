@@ -8,7 +8,7 @@ input = input.downcase.gsub(/[^a-z]/, '')
 if input == input.reverse 
 	puts "Racecar!"
 else 
-	puts "No Panama canal for you, sorry"
+	puts "No sir, away! A papaya war is on!"
 end
 end 
 
