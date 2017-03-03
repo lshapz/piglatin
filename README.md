@@ -1,4 +1,6 @@
-ruby practice files too small for their own repos 
+# ruby-snippets
+
+ruby practice files that are too insignificant for their own repo  
 
 99bottles: sings you a little song
 
